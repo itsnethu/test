@@ -1,2 +1,3 @@
-echo "helloworld
-hi"
+echo "helloworld"
+"hi"
+welcome
