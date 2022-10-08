@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "helloworld"
 "hi"
 welcome
