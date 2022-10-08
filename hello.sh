@@ -1,6 +1,1 @@
-echo "helloworld"
-"hi"
-welcome
-change
-dsfdf
-fdsfdsfd
+hello
